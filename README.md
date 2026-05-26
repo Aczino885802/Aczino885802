@@ -393,6 +393,4 @@ I'm always interested in discussing new projects, innovative ideas, or opportuni
 
 ---
 
-<div align="center">
-  <sub>⭐️ From <a href="https://github.com/Aczino885802">Aczino885802</a> with ❤️</sub>
-</div>
+
