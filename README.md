@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 **About Me**
+##  **About Me**
 
 ```typescript
 const carlos = {
@@ -51,19 +51,19 @@ const carlos = {
 
 ---
 
-## 💼 **Professional Experience**
+##  **Professional Experience**
 
-### 🚀 **Digital Campaign Coordinator** @ DrimLatam
+###  **Digital Campaign Coordinator** @ DrimLatam
 *Managing international brand campaigns and digital strategies*
 
-- 📊 Coordinated campaigns for **Amazon**, **AliExpress**, **POND'S**, and **TRESemmé**
-- 🎯 Project management and digital marketing coordination
-- 📈 Data-driven decision making for campaign optimization
-- 🌐 Cross-platform campaign deployment and monitoring
+-  Coordinated campaigns for **Amazon**, **AliExpress**, **POND'S**, and **TRESemmé**
+-  Project management and digital marketing coordination
+-  Data-driven decision making for campaign optimization
+-  Cross-platform campaign deployment and monitoring
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+##  **Tech Stack & Tools**
 
 ### **Languages**
 <div align="left">
@@ -127,10 +127,10 @@ const carlos = {
 
 ---
 
-## 🎨 **Featured Projects**
+##  **Featured Projects**
 
 <details open>
-<summary><b>🎵 Music Platform (Full-Stack)</b></summary>
+<summary><b> Music Platform (Full-Stack)</b></summary>
 <br>
 
 **Complete music streaming platform with advanced features**
@@ -152,7 +152,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning & Data Analysis</b></summary>
+<summary><b> Machine Learning & Data Analysis</b></summary>
 <br>
 
 **Advanced data analysis and predictive modeling**
@@ -168,7 +168,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>🎧 Music Client App</b></summary>
+<summary><b> Music Client App</b></summary>
 <br>
 
 **Modern streaming-style interface**
@@ -184,7 +184,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>🚗 WaltCarDetaily Dashboard</b></summary>
+<summary><b> WaltCarDetaily Dashboard</b></summary>
 <br>
 
 **Modular TypeScript dashboard application**
@@ -200,7 +200,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>🌐 Multi-APIs Integration</b></summary>
+<summary><b> Multi-APIs Integration</b></summary>
 <br>
 
 **Advanced API integration project**
@@ -216,7 +216,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>🔐 Network Infrastructure & Security</b></summary>
+<summary><b> Network Infrastructure & Security</b></summary>
 <br>
 
 **Enterprise-level networking projects**
@@ -232,7 +232,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>☁️ Cloud Computing Projects</b></summary>
+<summary><b> Cloud Computing Projects</b></summary>
 <br>
 
 **Multi-cloud infrastructure deployment**
@@ -265,11 +265,11 @@ const carlos = {
 
 ---
 
-## 🏆 **Achievements & Certifications**
+##  **Achievements & Certifications**
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Institution | 📅 Year |
+|  Certification |  Institution |  Year |
 |:----------------|:---------------|:--------|
 | Applied AI Course (48h) | MinTIC Talento GovTech | 2025 |
 | Systems Engineering | Los Libertadores | In Progress |
@@ -279,13 +279,13 @@ const carlos = {
 
 ---
 
-## 💡 **Core Competencies**
+##  **Core Competencies**
 
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
-### **💻 Development**
+### ** Development**
 - Full-Stack Development
 - RESTful API Design
 - MVC Architecture
@@ -296,7 +296,7 @@ const carlos = {
 </td>
 <td valign="top" width="33%">
 
-### **🌐 Infrastructure**
+### ** Infrastructure**
 - Cloud Architecture
 - Network Configuration
 - Server Administration
@@ -307,7 +307,7 @@ const carlos = {
 </td>
 <td valign="top" width="33%">
 
-### **🔒 Security**
+### ** Security**
 - Intrusion Detection
 - Traffic Analysis
 - Digital Forensics
@@ -321,7 +321,7 @@ const carlos = {
 
 ---
 
-## 🎯 **Soft Skills**
+##  **Soft Skills**
 
 <div align="center">
 
@@ -356,17 +356,17 @@ Organization:
 
 ---
 
-## 📈 **Current Focus**
+##  **Current Focus**
 
-- 🔭 Building scalable backend systems with Node.js and Express
-- 🌱 Deepening knowledge in cloud architecture (Azure & GCP)
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about backend development, networking, or cybersecurity
-- ⚡ Learning advanced DevOps practices and container orchestration
+-  Building scalable backend systems with Node.js and Express
+-  Deepening knowledge in cloud architecture (Azure & GCP)
+-  Looking to collaborate on open-source projects
+-  Ask me about backend development, networking, or cybersecurity
+-  Learning advanced DevOps practices and container orchestration
 
 ---
 
-## 🌟 **Let's Connect!**
+##  **Let's Connect!**
 
 <div align="center">
 
@@ -382,9 +382,9 @@ I'm always interested in discussing new projects, innovative ideas, or opportuni
 
 <div align="center">
   
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+###  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+**Thanks for visiting! Let's build something amazing together! **
 
 </div>
 
