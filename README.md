@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Network+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Cybersecurity+%26+Data+Analysis+%F0%9F%94%92;Full-Stack+Developer+%7C+DevOps+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Automation+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Cybersecurity+%26+Data+Analysis+%F0%9F%94%92;Full-Stack+Developer+%7C+DevOps+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <!-- Contact Badges -->
@@ -24,19 +24,20 @@
 
 ```typescript
 const carlos = {
-    role: "Systems Engineering Student & Backend Developer",
+    role: "Systems Engineer & Backend Developer",
     location: "Bogotá, Colombia 🇨🇴",
     education: "Fundación Universitaria Los Libertadores",
-    currentFocus: ["Cloud Architecture", "Backend Systems", "Cybersecurity"],
-    workExperience: "Digital Campaign Coordinator @ DrimLatam",
+    currentFocus: ["Automation", "Cloud Architecture", "Backend Systems"],
+    workExperience: "Workforce Management Practicante @ IntouchCX | Digital Campaign Coordinator @ DrimLatam",
     
     expertise: {
+        automation: ["Google Apps Script", "Google Sheets API", "Triggers", "Reporting Pipelines"],
         backend: ["Node.js", "Express", "REST APIs", "PostgreSQL", "MySQL"],
         frontend: ["JavaScript", "TypeScript", "HTML/CSS", "Tailwind"],
         infrastructure: ["Azure", "GCP", "Linux", "Windows Server"],
         networking: ["GNS3", "VLANs", "VPN", "IPv4/IPv6", "DHCP/DNS"],
         security: ["Suricata IDS", "Wireshark", "Forensic Analysis"],
-        dataScience: ["Python", "pandas", "scikit-learn", "Machine Learning"],
+        dataScience: ["Python", "R", "pandas", "scikit-learn", "Shiny", "D3.js", "Streamlit"],
         devops: ["Git", "GitHub Actions", "Cloudflare", "CI/CD"]
     },
     
@@ -45,13 +46,21 @@ const carlos = {
         english: "B1-B2"
     },
     
-    funFact: "I build networks, secure systems, and develop full-stack applications ⚡"
+    funFact: "I automate reporting, build networks, and develop full-stack applications ⚡"
 };
 ```
 
 ---
 
 ##  **Professional Experience**
+
+###  **Practicante Workforce Management** @ IntouchCX (24-7 Intouch)
+*Process automation for reporting systems*
+
+- Designed and built **Google Apps Script** automation systems for reporting, applying modular architecture, separation of concerns and version control
+- Integrated with **Google Sheets API**, event-based and scheduled triggers, and data validation/normalization pipelines
+- Built internal web apps for data processing and automated report generation for different levels of the organization
+- Debugged multi-file systems and documented processes for handoff
 
 ###  **Digital Campaign Coordinator** @ DrimLatam
 *Managing international brand campaigns and digital strategies*
@@ -65,11 +74,18 @@ const carlos = {
 
 ##  **Tech Stack & Tools**
 
+### **Automation**
+<div align="left">
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</div>
+
 ### **Languages**
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
@@ -88,7 +104,6 @@ const carlos = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 
 ### **Cloud & Infrastructure**
@@ -114,6 +129,9 @@ const carlos = {
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shiny-1a83c4?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
 ### **DevOps & Tools**
@@ -128,6 +146,35 @@ const carlos = {
 ---
 
 ##  **Featured Projects**
+
+<details open>
+<summary><b> Visualización de datos en salud pública (BRFSS)</b></summary>
+<br>
+
+**Three interactive implementations of the same ~250K-row health dataset**
+
+- `shiny-diabetes` — R/Shiny app
+- `d3-diabetes` — D3.js app
+- `streamlit-diabetes` — Python/Streamlit app
+- Combined bar+line charts, clinical reference histograms, radar chart, age×condition heatmap, correlation heatmap
+- Deployed to shinyapps.io, GitHub Pages and Streamlit Cloud
+
+**Tech:** `R` `Shiny` `D3.js` `Python` `Streamlit`
+
+</details>
+
+<details>
+<summary><b> Munoz-Girata-sbc — Cloud Infrastructure for SMEs</b></summary>
+<br>
+
+**GCP cloud architecture project for Colombian SMEs**
+
+- Autoscaling, high availability and RTO/RPO design
+- Basis for an IEEE-format academic paper, co-developed with Juan Camilo Girata Arango
+
+**Tech:** `GCP` `JavaScript` `Python`
+
+</details>
 
 <details open>
 <summary><b> Music Platform (Full-Stack)</b></summary>
@@ -247,22 +294,6 @@ const carlos = {
 
 </details>
 
-<details>
-<summary><b>🛒 WordPress Commerce Solutions</b></summary>
-<br>
-
-**E-commerce development & administration**
-
-- Custom site development
-- Payment gateway integration
-- SEO optimization
-- Performance tuning
-- Hosting & deployment
-
-**Tech:** `WordPress` `WooCommerce` `PHP` `MySQL`
-
-</details>
-
 ---
 
 ##  **Achievements & Certifications**
@@ -296,13 +327,13 @@ const carlos = {
 </td>
 <td valign="top" width="33%">
 
-### ** Infrastructure**
+### ** Automation & Infrastructure**
+- Process Automation (Apps Script)
 - Cloud Architecture
 - Network Configuration
 - Server Administration
 - Virtualization
 - DNS/DHCP Management
-- Security Implementation
 
 </td>
 <td valign="top" width="33%">
@@ -358,10 +389,10 @@ Organization:
 
 ##  **Current Focus**
 
--  Building scalable backend systems with Node.js and Express
+-  Wrapping up my práctica empresarial at IntouchCX (WFM automation)
 -  Deepening knowledge in cloud architecture (Azure & GCP)
 -  Looking to collaborate on open-source projects
--  Ask me about backend development, networking, or cybersecurity
+-  Ask me about automation, backend development, or data visualization
 -  Learning advanced DevOps practices and container orchestration
 
 ---
@@ -390,7 +421,3 @@ I'm always interested in discussing new projects, innovative ideas, or opportuni
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
----
-
-
