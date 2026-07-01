@@ -303,7 +303,7 @@ const carlos = {
 |  Certification |  Institution |  Year |
 |:----------------|:---------------|:--------|
 | Applied AI Course (48h) | MinTIC Talento GovTech | 2025 |
-| Systems Engineering | Los Libertadores | In Progress |
+| Systems Engineering | Los Libertadores | 2026 |
 | High School Diploma | IED Enrique Pardo Parra | 2021 |
 
 </div>
